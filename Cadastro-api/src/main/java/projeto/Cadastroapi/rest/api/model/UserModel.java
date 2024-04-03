@@ -4,8 +4,8 @@ import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 
-@Entity(name = "usuario")
-public class UsuarioModel {
+@Entity(name = "user")
+public class UserModel {
 
     @Id
     private Integer code;

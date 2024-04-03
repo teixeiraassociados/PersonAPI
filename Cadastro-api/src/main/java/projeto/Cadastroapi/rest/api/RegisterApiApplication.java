@@ -5,10 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication //oq diz que e um, projeto api
 //onde comeca aplicacao
-public class CadastroApiApplication {
+public class RegisterApiApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(CadastroApiApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(RegisterApiApplication.class, args);
+    }
 
 }

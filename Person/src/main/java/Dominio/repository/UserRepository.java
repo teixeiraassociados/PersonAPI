@@ -1,7 +1,7 @@
-package projeto.Cadastroapi.rest.api.repository;
+package Dominio.repository;
 
+import Dominio.model.UserModel;
 import org.springframework.data.repository.CrudRepository;
-import projeto.Cadastroapi.rest.api.model.UserModel;
 
 import java.util.Optional;
 

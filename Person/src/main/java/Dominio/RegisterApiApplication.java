@@ -1,10 +1,9 @@
-package projeto.Cadastroapi.rest.api;
+package Dominio;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication //oq diz que e um, projeto api
-//onde comeca aplicacao
+@SpringBootApplication
 public class RegisterApiApplication {
 
     public static void main(String[] args) {

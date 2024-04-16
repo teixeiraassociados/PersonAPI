@@ -1,10 +1,10 @@
-package projeto.Cadastroapi.rest.api.controller;
+package Dominio.controller;
 
+import Dominio.model.UserModel;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import projeto.Cadastroapi.rest.api.model.UserModel;
-import projeto.Cadastroapi.rest.api.repository.UserRepository;
+import Dominio.repository.UserRepository;
 
 import java.util.HashMap;
 import java.util.List;

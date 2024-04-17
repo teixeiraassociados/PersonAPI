@@ -1,7 +1,7 @@
 package Dominio.Email;
 
 public enum EmailType {
-    professionalEmail,
-    privateEmail,
-    alternativeEmail;
+    Professional_Email,
+    Private_Email,
+    Alternative_Email;
 }

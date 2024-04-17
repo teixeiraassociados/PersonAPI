@@ -1,8 +1,8 @@
 package Dominio.Phone;
 
 public enum PhoneType {
-    cellPhone,
-    landLine,
-    workPhone,
-    messagePhone;
+    Cell_Phone,
+    Land_Line,
+    Work_Phone,
+    Message_Phone;
 }

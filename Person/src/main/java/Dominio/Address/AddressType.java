@@ -1,8 +1,9 @@
 package Dominio.Address;
 
 public enum AddressType {
-    homeAddress,
-    businessAnddress,
-    billingAddress,
-    mailingAddress;
+    Home_Address,
+    Business_Anddress,
+    Billing_Address,
+    Mailing_Address;
 }
+
